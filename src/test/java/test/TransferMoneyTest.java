@@ -1,9 +1,9 @@
 package test;
 
-import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.*;
 import data.DataHelper;
 import page.LoginPage;
+import com.codeborne.selenide.Configuration;
 
 import static com.codeborne.selenide.Selenide.*;
 
